@@ -6,7 +6,7 @@ invisible after dismissing the keyboard inside an Expo UI bottom sheet.
 ## Environment
 
 - Expo SDK 57 (`expo` 57.0.25)
-- `@expo/ui` 57.0.19
+- `@expo/ui` 57.0.20
 - React Native 0.86.3
 - Reproduced on Xiaomi MI 6, Android 9
 
